@@ -1,0 +1,21 @@
+#home{
+	
+	width: 1920px;
+	height: 1100px;
+	background-image: url('http://imgie.pl/images/2017/12/10/rgeerg518ee.png');
+}
+.menu {
+	 position: fixed;
+    top: 20px;
+    left: 1000;
+    right: 0;
+    height: 80px; /* opcjonalnie jakaś wysokość */
+    background-color: none;
+
+}
+#h1{
+	position: fixed;
+	top: 300px;
+	left: 100px;
+	background-color: none;
+}
